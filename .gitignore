@@ -1,0 +1,8 @@
+out
+replays
+*.iml
+.idea
+cls
+*.class
+*.hlt
+*.log
